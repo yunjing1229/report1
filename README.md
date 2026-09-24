@@ -36,6 +36,18 @@
 - **结论**：由于硬件限制，GPU 加速不可用，但 PyTorch CPU 版本安装成功，环境配置正确。
 
 ## 三、实验结果
+<img width="745" height="677" alt="c6f3a0268bb8b8c9717fff6cc5c78d7" src="https://github.com/user-attachments/assets/97e11189-45b2-430d-b23b-410eec43714c" />
+<img width="715" height="322" alt="67406bc90529f725be8e3d486a6fdf5" src="https://github.com/user-attachments/assets/29ec8c48-64ab-44f0-b5d1-2e548fef7ead" />
+<img width="948" height="652" alt="f5db10ede76a6cccba6639961844ced" src="https://github.com/user-attachments/assets/09994e64-c2ae-40ca-ad90-adc6da914fdd" />
+<img width="1814" height="927" alt="d9772fb94357f6b09a614716fd8839d" src="https://github.com/user-attachments/assets/89ec4f13-be04-4b9b-ab79-b2be84e63985" />
+<img width="628" height="234" alt="7f840a86759b314acee08042911ad2b" src="https://github.com/user-attachments/assets/1ea4f5cc-55ef-4710-bb6b-1ea702301a40" />
+<img width="1797" height="397" alt="47bd4a8a6cf042ffd04d4b0ddf03b10" src="https://github.com/user-attachments/assets/89f0351c-8665-4e9c-a781-2ca62858bc7e" />
+
+
+
+
+
+
 
 ### 1. Anaconda 版本与配置
 
